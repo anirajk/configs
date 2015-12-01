@@ -1,0 +1,7 @@
+#Aliases
+alias sublime='/usr/bin/subl'
+alias eclipse='/home/aniraj/development/ides/eclipse/eclipse/eclipse &'
+alias mdview='/home/aniraj/development/ides/markdown/Markdown_1.0.1/Markdown.pl'
+alias easy_install_jython='/opt/jython/bin/easy_install'
+alias gcc='/usr/bin/gcc-4.8'
+alias g++='/usr/bin/g++-4.8'
